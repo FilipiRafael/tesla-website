@@ -1,6 +1,6 @@
 # Tesla.com Website
 <div style="display: inline-block">
-    <img src="readme/website.png" alt="website" height="auto" width="100%" style="border-radius:50px;">
+    <img src="https://github.com/FilipiRafael/tesla-website/blob/master/img/background-1.jpg?raw=true" alt="website" height="auto" width="100%" style="border-radius:50px;">
 </div>
 
 ## Sobre o Projeto
