@@ -1,6 +1,6 @@
 # Tesla.com Website
 <div style="display: inline-block">
-    <img src="https://github.com/FilipiRafael/tesla-website/blob/master/img/background-1.jpg?raw=true" alt="website">
+    <img src="readme/website.png" alt="website">
 </div>
 
 ## Sobre o Projeto
