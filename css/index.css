@@ -97,3 +97,9 @@ header {
     font-weight: 900;
     margin: 0 10px;
 }
+
+@media screen and (max-width: 480px) {
+    body {
+        background-image: url('../img/background-2.jpg')
+    }
+}
